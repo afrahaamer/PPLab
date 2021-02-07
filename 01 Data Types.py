@@ -9,8 +9,8 @@
 a = 5
 print(a,"is of type",type(a))
 
-a = 2.0
-print(a,"is of type",type(a))
+b = 2.0
+print(a,"is of type",type(b))
 
-a = 1+2j
-print(a,"is of type",type(a))
+c = 1+2j
+print(a,"is of type",type(c))
