@@ -1,3 +1,10 @@
+# ALGORITHM
+# Step 1: Start
+# Step 2: To create a string, initialize a string to a variable
+# Step 3: To concatenate, use '+' operator
+# Step 4: To access a substring indicate the start and end reference index seperated by a ':'
+# Step 5: Stop
+
 # CODE
 import time
 import datetime
