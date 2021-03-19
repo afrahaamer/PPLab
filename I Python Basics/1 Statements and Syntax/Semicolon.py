@@ -1,0 +1,1 @@
+print('Hi');print("Bye")
