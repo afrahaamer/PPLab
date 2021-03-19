@@ -1,0 +1,11 @@
+Identifier - Differentiating Name for VARIABLE, CLASS, FUNCTION etc.
+Rules for Identifiers
+1. {[a-z],[A-Z],[0-9],_}
+2. Starting initial can't be [0-9]
+3. Keywords can't be Identifiers since reserved
+4. Symbols are Invalid {!,@,#,$,%,,,^,&,*}
+5. Any Length 
+6. CaSE SenSiTiVe
+    VARIABLE != variable
+7. Must make sense
+8. Multiple words seperated with '_'
