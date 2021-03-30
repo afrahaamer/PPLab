@@ -7,3 +7,6 @@ print(id(a))
 print(id(b))
 print(id(c))
 print(id(d))
+
+print(a is b)
+print(a is not b)

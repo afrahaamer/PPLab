@@ -8,4 +8,7 @@ Rules for Identifiers
 6. CaSE SenSiTiVe
     VARIABLE != variable
 7. Must make sense
-8. Multiple words seperated with '_'
+8. Multiple words seperated with '_' - snake_case
+camelCase
+PascalCase
+
