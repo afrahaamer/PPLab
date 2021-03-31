@@ -1,0 +1,12 @@
+Features of Modules
+
+1. Auto-Loaded Modules __builtin__ 
+2. Prevent Attribute Import 
+    from <modules> import * 
+    hidden attributes
+3. Case Insensitive 
+4. Source Code Encoding : 7 bit ASCII encodinG
+5. Module Execution 
+    - cmd prompt
+    - import module
+    - execfile() 
